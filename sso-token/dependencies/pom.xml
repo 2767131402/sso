@@ -15,7 +15,7 @@
         <!--mysql-->
         <HikariCP>3.2.0</HikariCP>
         <mybatis-spring-boot-starter>2.1.1</mybatis-spring-boot-starter>
-        <mysql-connector-java>8.0.18</mysql-connector-java>
+        <mysql-connector-java>8.0.28</mysql-connector-java>
 
         <!--http-->
         <okhttp>3.14.2</okhttp>
